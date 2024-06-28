@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "220048535033",
+    "project_id": "wallify-cd684",
+    "storage_bucket": "wallify-cd684.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220048535033:android:63622e04e7d540514fa128",
+        "android_client_info": {
+          "package_name": "com.example.wallpaperapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdpXFgyL756I4-aXl4ODLFFNkCWMxu7AM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
